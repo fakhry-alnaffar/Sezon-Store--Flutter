@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.061" height="16.061" viewBox="0 0 16.061 16.061">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_915" data-name="Rectangle 915" width="16.061" height="16.061" transform="translate(127 925)" fill="#4b4b4b"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(-127 -925)" clip-path="url(#clip-path)">
+    <g id="shopping-basket-svgrepo-com_1_" data-name="shopping-basket-svgrepo-com (1)" transform="translate(127.001 925)">
+      <g id="Group_41399" data-name="Group 41399">
+        <path id="Path_49028" data-name="Path 49028" d="M16.346,6.728a1.75,1.75,0,0,0-1.376-.7H13.761C13.647,2.93,11.4.449,8.654.449S3.661,2.93,3.547,6.031H2.338a1.75,1.75,0,0,0-1.376.7,2.487,2.487,0,0,0-.445,2.1l1.45,6.39a1.964,1.964,0,0,0,1.822,1.641h9.728a1.961,1.961,0,0,0,1.822-1.641l1.453-6.39a2.487,2.487,0,0,0-.445-2.1ZM8.654,1.815c2,0,3.63,1.869,3.737,4.216H4.916c.107-2.344,1.741-4.216,3.737-4.216Zm6.8,6.708-1.45,6.393c-.074.328-.285.576-.489.576H3.788c-.2,0-.415-.248-.489-.576L1.849,8.523C1.772,8.185,1.725,7.4,2.338,7.4H14.97C15.629,7.4,15.536,8.185,15.458,8.523Z" transform="translate(-0.45 -0.449)" fill="#4b4b4b"/>
+        <path id="Path_49029" data-name="Path 49029" d="M6.165,10.576a.682.682,0,0,0-.683.683v4.27a.683.683,0,1,0,1.366,0v-4.27A.682.682,0,0,0,6.165,10.576Z" transform="translate(-1.353 -2.267)" fill="#4b4b4b"/>
+        <path id="Path_49030" data-name="Path 49030" d="M10.2,10.576a.682.682,0,0,0-.683.683v4.27a.683.683,0,1,0,1.366,0v-4.27A.686.686,0,0,0,10.2,10.576Z" transform="translate(-2.078 -2.267)" fill="#4b4b4b"/>
+        <path id="Path_49031" data-name="Path 49031" d="M14.234,10.576a.682.682,0,0,0-.683.683v4.27a.683.683,0,1,0,1.366,0v-4.27A.684.684,0,0,0,14.234,10.576Z" transform="translate(-2.802 -2.267)" fill="#4b4b4b"/>
+      </g>
+    </g>
+  </g>
+</svg>
