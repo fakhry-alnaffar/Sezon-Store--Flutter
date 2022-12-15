@@ -15,5 +15,6 @@ abstract class UserRemoteDataSource {
     required String mobileNumber,
   });
 
+
   Future<List<Notification>> getNotifications();
 }
